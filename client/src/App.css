@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100vw;
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 15rem;
+}
+
+.header p {
+  font-size: 2rem;
+}
